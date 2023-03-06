@@ -1,0 +1,6 @@
+C:\SISLicoreria\Licoreria\SistemaLicoreria\ENTITIES\bin\Debug\ENTITIES.dll
+C:\SISLicoreria\Licoreria\SistemaLicoreria\ENTITIES\bin\Debug\ENTITIES.pdb
+C:\SISLicoreria\Licoreria\SistemaLicoreria\ENTITIES\obj\Debug\ENTITIES.csproj.AssemblyReference.cache
+C:\SISLicoreria\Licoreria\SistemaLicoreria\ENTITIES\obj\Debug\ENTITIES.csproj.CoreCompileInputs.cache
+C:\SISLicoreria\Licoreria\SistemaLicoreria\ENTITIES\obj\Debug\ENTITIES.dll
+C:\SISLicoreria\Licoreria\SistemaLicoreria\ENTITIES\obj\Debug\ENTITIES.pdb

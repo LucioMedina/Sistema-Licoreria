@@ -1,0 +1,6 @@
+C:\SISLicoreria\Licoreria\SistemaLicoreria\DAL\bin\Debug\DAL.dll
+C:\SISLicoreria\Licoreria\SistemaLicoreria\DAL\bin\Debug\DAL.pdb
+C:\SISLicoreria\Licoreria\SistemaLicoreria\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\SISLicoreria\Licoreria\SistemaLicoreria\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\SISLicoreria\Licoreria\SistemaLicoreria\DAL\obj\Debug\DAL.dll
+C:\SISLicoreria\Licoreria\SistemaLicoreria\DAL\obj\Debug\DAL.pdb

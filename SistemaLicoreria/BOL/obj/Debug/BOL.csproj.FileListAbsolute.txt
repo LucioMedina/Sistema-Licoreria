@@ -1,0 +1,11 @@
+C:\SISLicoreria\Licoreria\SistemaLicoreria\BOL\bin\Debug\BOL.dll
+C:\SISLicoreria\Licoreria\SistemaLicoreria\BOL\bin\Debug\BOL.pdb
+C:\SISLicoreria\Licoreria\SistemaLicoreria\BOL\bin\Debug\DAL.dll
+C:\SISLicoreria\Licoreria\SistemaLicoreria\BOL\bin\Debug\ENTITIES.dll
+C:\SISLicoreria\Licoreria\SistemaLicoreria\BOL\bin\Debug\DAL.pdb
+C:\SISLicoreria\Licoreria\SistemaLicoreria\BOL\bin\Debug\ENTITIES.pdb
+C:\SISLicoreria\Licoreria\SistemaLicoreria\BOL\obj\Debug\BOL.csproj.AssemblyReference.cache
+C:\SISLicoreria\Licoreria\SistemaLicoreria\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+C:\SISLicoreria\Licoreria\SistemaLicoreria\BOL\obj\Debug\BOL.csproj.CopyComplete
+C:\SISLicoreria\Licoreria\SistemaLicoreria\BOL\obj\Debug\BOL.dll
+C:\SISLicoreria\Licoreria\SistemaLicoreria\BOL\obj\Debug\BOL.pdb
