@@ -65,35 +65,42 @@ select * from categoria
 go
 
 insert into Productos (idmarca, idcategoria, nombreproducto, descripcion, precio, stock, caducidad) values 
-	(1, 3, 'Gran borgoña', 'Semi Seco Botella 750ml', 16.0, 10, '01-03-2024')
+	(1, 2, 'Gran borgoña', 'Semi Seco Botella 750ml', 16.0, 10, '01-03-2024')
 go
 
-select * from Productos
-go
+SELECT * FROM Empleados
+SELECT * FROM Personas
+SELECT * FROM Ventas
+SELECT * FROM Compras
+SELECT * FROM Productos
+GO
 
 
 insert into DetalleVenta (idventa, idproducto, cantidad, precioventa) values 
-	(1, 1, 2, 32.0)
+	(3, 4, 2, 32.0)
 go
 
-select * from DetalleVenta
+select * from detalleCompra
+go
 
 insert into Proveedores (nombreprov, direccion, RUC, telefono) values 
-	('El Pozito', 'Lima av. Victoria #120', 45367828776, 987654376)
+	('El Pozito', 'Lima av. Victoria #120', 45367876776, 987654376)
 go
+DELETE FROM Proveedores
+GO
 
 select * from Proveedores
 go
 
 insert into Compras (idproveedor) values 
-	(2)
+	(1)
 go
 
 select * from compras
 go
 
 insert into detalleCompra (idcompras, idproductos, cantidad, preciocompra) values
-	(1, 1, 2, 32.0)
+	(2, 4, 2, 32.0)
 go
 
 select * from detalleCompra

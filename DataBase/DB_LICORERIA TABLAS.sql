@@ -16,6 +16,10 @@ create table Personas
 )
 go
 
+ALTER TABLE Personas ADD estado BIT NOT NULL DEFAULT 1
+
+
+
 create table Empleados
 (
 	idempleado		int identity(1,1)	primary key,
@@ -27,6 +31,10 @@ create table Empleados
 	CONSTRAINT uk_idpersona UNIQUE (idpersona)
 )
 go
+
+alter table Empleados add estado bit not null default 1
+
+
 
 create table MediosPago
 (
@@ -86,7 +94,7 @@ GO
 
 CREATE TABLE Productos
 (
-	idproducto		INT IDENTITY(1,1) PRIMARY KEY,
+	idproducto			INT IDENTITY(1,1) PRIMARY KEY,
 	idmarca				INT			 NOT NULL,
 	idcategoria			INT			 NOT NULL,
 	nombreproducto		VARCHAR(50)	 NOT NULL,
@@ -100,6 +108,7 @@ CREATE TABLE Productos
 	CONSTRAINT Re_stock CHECK (stock > 0)
 )
 GO
+ALTER TABLE Productos ADD estado BIT NOT NULL DEFAULT 1
 
 create table DetalleVenta
 (
