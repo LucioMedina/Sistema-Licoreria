@@ -18,3 +18,5 @@ C:\SISLicoreria\Licoreria\SistemaLicoreria\DESIGNER\bin\Debug\DAL.pdb
 C:\SISLicoreria\Licoreria\SistemaLicoreria\DESIGNER\obj\Debug\DESIGNER.csproj.CopyComplete
 C:\SISLicoreria\Licoreria\SistemaLicoreria\DESIGNER\obj\Debug\DESIGNER.exe
 C:\SISLicoreria\Licoreria\SistemaLicoreria\DESIGNER\obj\Debug\DESIGNER.pdb
+C:\SISLicoreria\Licoreria\SistemaLicoreria\DESIGNER\obj\Debug\DESIGNER.frmCompras.resources
+C:\SISLicoreria\Licoreria\SistemaLicoreria\DESIGNER\obj\Debug\DESIGNER.frmProductos.resources
