@@ -1,0 +1,6 @@
+C:\Users\Jean Mateo Quispe\Documents\SIS_VENTALICOR\DAL\bin\Debug\DAL.dll
+C:\Users\Jean Mateo Quispe\Documents\SIS_VENTALICOR\DAL\bin\Debug\DAL.pdb
+C:\Users\Jean Mateo Quispe\Documents\SIS_VENTALICOR\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Jean Mateo Quispe\Documents\SIS_VENTALICOR\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Jean Mateo Quispe\Documents\SIS_VENTALICOR\DAL\obj\Debug\DAL.dll
+C:\Users\Jean Mateo Quispe\Documents\SIS_VENTALICOR\DAL\obj\Debug\DAL.pdb

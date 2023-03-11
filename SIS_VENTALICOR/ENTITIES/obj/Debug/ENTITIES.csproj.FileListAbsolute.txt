@@ -1,0 +1,6 @@
+C:\Users\Jean Mateo Quispe\Documents\SIS_VENTALICOR\ENTITIES\bin\Debug\ENTITIES.dll
+C:\Users\Jean Mateo Quispe\Documents\SIS_VENTALICOR\ENTITIES\bin\Debug\ENTITIES.pdb
+C:\Users\Jean Mateo Quispe\Documents\SIS_VENTALICOR\ENTITIES\obj\Debug\ENTITIES.csproj.AssemblyReference.cache
+C:\Users\Jean Mateo Quispe\Documents\SIS_VENTALICOR\ENTITIES\obj\Debug\ENTITIES.csproj.CoreCompileInputs.cache
+C:\Users\Jean Mateo Quispe\Documents\SIS_VENTALICOR\ENTITIES\obj\Debug\ENTITIES.dll
+C:\Users\Jean Mateo Quispe\Documents\SIS_VENTALICOR\ENTITIES\obj\Debug\ENTITIES.pdb

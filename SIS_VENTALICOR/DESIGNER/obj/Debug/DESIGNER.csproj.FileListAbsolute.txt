@@ -1,0 +1,48 @@
+C:\Users\Jean Mateo Quispe\Documents\SIS_VENTALICOR\DESIGNER\bin\Debug\DESIGNER.exe.config
+C:\Users\Jean Mateo Quispe\Documents\SIS_VENTALICOR\DESIGNER\bin\Debug\DESIGNER.exe
+C:\Users\Jean Mateo Quispe\Documents\SIS_VENTALICOR\DESIGNER\bin\Debug\DESIGNER.pdb
+C:\Users\Jean Mateo Quispe\Documents\SIS_VENTALICOR\DESIGNER\bin\Debug\BOL.dll
+C:\Users\Jean Mateo Quispe\Documents\SIS_VENTALICOR\DESIGNER\bin\Debug\ENTITIES.dll
+C:\Users\Jean Mateo Quispe\Documents\SIS_VENTALICOR\DESIGNER\bin\Debug\DAL.dll
+C:\Users\Jean Mateo Quispe\Documents\SIS_VENTALICOR\DESIGNER\bin\Debug\BOL.pdb
+C:\Users\Jean Mateo Quispe\Documents\SIS_VENTALICOR\DESIGNER\bin\Debug\ENTITIES.pdb
+C:\Users\Jean Mateo Quispe\Documents\SIS_VENTALICOR\DESIGNER\bin\Debug\DAL.pdb
+C:\Users\Jean Mateo Quispe\Documents\SIS_VENTALICOR\DESIGNER\obj\Debug\DESIGNER.csproj.AssemblyReference.cache
+C:\Users\Jean Mateo Quispe\Documents\SIS_VENTALICOR\DESIGNER\obj\Debug\DESIGNER.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jean Mateo Quispe\Documents\SIS_VENTALICOR\DESIGNER\obj\Debug\DESIGNER.Form1.resources
+C:\Users\Jean Mateo Quispe\Documents\SIS_VENTALICOR\DESIGNER\obj\Debug\DESIGNER.Mantenimieto.FormPerson.resources
+C:\Users\Jean Mateo Quispe\Documents\SIS_VENTALICOR\DESIGNER\obj\Debug\DESIGNER.Properties.Resources.resources
+C:\Users\Jean Mateo Quispe\Documents\SIS_VENTALICOR\DESIGNER\obj\Debug\DESIGNER.csproj.GenerateResource.cache
+C:\Users\Jean Mateo Quispe\Documents\SIS_VENTALICOR\DESIGNER\obj\Debug\DESIGNER.csproj.CoreCompileInputs.cache
+C:\Users\Jean Mateo Quispe\Documents\SIS_VENTALICOR\DESIGNER\obj\Debug\DESIGNER.csproj.CopyComplete
+C:\Users\Jean Mateo Quispe\Documents\SIS_VENTALICOR\DESIGNER\obj\Debug\DESIGNER.exe
+C:\Users\Jean Mateo Quispe\Documents\SIS_VENTALICOR\DESIGNER\obj\Debug\DESIGNER.pdb
+C:\Users\Jean Mateo Quispe\Documents\SIS_VENTALICOR\DESIGNER\obj\Debug\DESIGNER.Mantenimieto.FormEmpleado.resources
+C:\Users\Jean Mateo Quispe\Documents\SIS_VENTALICOR\DESIGNER\obj\Debug\DESIGNER.Mantenimieto.FormProducto.resources
+C:\Users\Jean Mateo Quispe\Documents\SIS_VENTALICOR\DESIGNER\obj\Debug\DESIGNER.Mantenimieto.FormDetalleP.resources
+C:\Users\Jean Mateo Quispe\Documents\SIS_VENTALICOR\DESIGNER\obj\Debug\DESIGNER.Modal.FormCliente.resources
+C:\Users\Jean Mateo Quispe\Documents\SIS_VENTALICOR\DESIGNER\obj\Debug\DESIGNER.Modal.FormProdts.resources
+C:\Users\lucio\Videos\SIS_VENTALICOR\SIS_VENTALICOR\DESIGNER\bin\Debug\DESIGNER.exe.config
+C:\Users\lucio\Videos\SIS_VENTALICOR\SIS_VENTALICOR\DESIGNER\bin\Debug\DESIGNER.exe
+C:\Users\lucio\Videos\SIS_VENTALICOR\SIS_VENTALICOR\DESIGNER\bin\Debug\DESIGNER.pdb
+C:\Users\lucio\Videos\SIS_VENTALICOR\SIS_VENTALICOR\DESIGNER\bin\Debug\BOL.dll
+C:\Users\lucio\Videos\SIS_VENTALICOR\SIS_VENTALICOR\DESIGNER\bin\Debug\DAL.dll
+C:\Users\lucio\Videos\SIS_VENTALICOR\SIS_VENTALICOR\DESIGNER\bin\Debug\ENTITIES.dll
+C:\Users\lucio\Videos\SIS_VENTALICOR\SIS_VENTALICOR\DESIGNER\bin\Debug\BOL.pdb
+C:\Users\lucio\Videos\SIS_VENTALICOR\SIS_VENTALICOR\DESIGNER\bin\Debug\DAL.pdb
+C:\Users\lucio\Videos\SIS_VENTALICOR\SIS_VENTALICOR\DESIGNER\bin\Debug\ENTITIES.pdb
+C:\Users\lucio\Videos\SIS_VENTALICOR\SIS_VENTALICOR\DESIGNER\obj\Debug\DESIGNER.csproj.AssemblyReference.cache
+C:\Users\lucio\Videos\SIS_VENTALICOR\SIS_VENTALICOR\DESIGNER\obj\Debug\DESIGNER.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucio\Videos\SIS_VENTALICOR\SIS_VENTALICOR\DESIGNER\obj\Debug\DESIGNER.Form1.resources
+C:\Users\lucio\Videos\SIS_VENTALICOR\SIS_VENTALICOR\DESIGNER\obj\Debug\DESIGNER.Mantenimieto.FormDetalleP.resources
+C:\Users\lucio\Videos\SIS_VENTALICOR\SIS_VENTALICOR\DESIGNER\obj\Debug\DESIGNER.Mantenimieto.FormEmpleado.resources
+C:\Users\lucio\Videos\SIS_VENTALICOR\SIS_VENTALICOR\DESIGNER\obj\Debug\DESIGNER.Mantenimieto.FormPerson.resources
+C:\Users\lucio\Videos\SIS_VENTALICOR\SIS_VENTALICOR\DESIGNER\obj\Debug\DESIGNER.Mantenimieto.FormProducto.resources
+C:\Users\lucio\Videos\SIS_VENTALICOR\SIS_VENTALICOR\DESIGNER\obj\Debug\DESIGNER.Modal.FormCliente.resources
+C:\Users\lucio\Videos\SIS_VENTALICOR\SIS_VENTALICOR\DESIGNER\obj\Debug\DESIGNER.Modal.FormProdts.resources
+C:\Users\lucio\Videos\SIS_VENTALICOR\SIS_VENTALICOR\DESIGNER\obj\Debug\DESIGNER.Properties.Resources.resources
+C:\Users\lucio\Videos\SIS_VENTALICOR\SIS_VENTALICOR\DESIGNER\obj\Debug\DESIGNER.csproj.GenerateResource.cache
+C:\Users\lucio\Videos\SIS_VENTALICOR\SIS_VENTALICOR\DESIGNER\obj\Debug\DESIGNER.csproj.CoreCompileInputs.cache
+C:\Users\lucio\Videos\SIS_VENTALICOR\SIS_VENTALICOR\DESIGNER\obj\Debug\DESIGNER.csproj.CopyComplete
+C:\Users\lucio\Videos\SIS_VENTALICOR\SIS_VENTALICOR\DESIGNER\obj\Debug\DESIGNER.exe
+C:\Users\lucio\Videos\SIS_VENTALICOR\SIS_VENTALICOR\DESIGNER\obj\Debug\DESIGNER.pdb
